@@ -1,0 +1,2 @@
+# haskell
+KMA Haskell course
